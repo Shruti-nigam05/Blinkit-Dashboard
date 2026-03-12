@@ -1,4 +1,4 @@
-<img width="1276" height="728" alt="image" src="https://github.com/user-attachments/assets/29e862c5-cea2-4990-8723-e346dd624a23" />⚡ Blinkit Sales Analytics Dashboard
+⚡ Blinkit Sales Analytics Dashboard
 
 An interactive "Power BI dashboard" designed to analyze sales performance, outlet characteristics, and product trends for Blinkit – India's Last Minute App. The dashboard enables quick exploration of sales patterns, product performance, and outlet-level insights to support data-driven decision making.
 
@@ -161,3 +161,4 @@ These insights can help businesses "optimize product distribution, store strateg
 ---
 
 # 📷 Dashboard Preview
+<img width="1276" height="728" alt="image" src="https://github.com/user-attachments/assets/29e862c5-cea2-4990-8723-e346dd624a23" />
