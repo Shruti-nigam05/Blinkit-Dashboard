@@ -70,6 +70,6 @@ This structure allows analysis across **products, outlets, and sales performance
 
 # 📷 Dashboard Preview
 
-![Blinkit Dashboard](dashboard.png)
+<img width="1276" height="728" alt="image" src="https://github.com/user-attachments/assets/29e862c5-cea2-4990-8723-e346dd624a23" />
 
 
